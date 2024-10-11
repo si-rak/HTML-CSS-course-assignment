@@ -1,6 +1,6 @@
 # Rainydays - E-commerce Website for Rain Jackets
 
-![Alt text](/assets/images/HP main img,compr.JPG)
+(/assets/images/HP main img,compr.JPG)
 
 
 ## Project Overview
