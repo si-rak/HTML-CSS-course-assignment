@@ -13,7 +13,7 @@ This is HTML and CSS Course Assignement on an e-commerce website that specialize
 
 - Responsive design that works on all devices.
 - Semantic HTML for better SEO and accessibility.
-- Dynamic product showcase.
+- Custom styles using CSS.
 - User-friendly navigation.
 
 ## Installation
