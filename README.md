@@ -96,4 +96,8 @@ Feel free to reach out if you have any questions or want to connect:
 
 I'm always open to feedback, collaboration, and networking!
 
+## Acknowledgments
+
+I would like to express my gratitude to Noroff instructors for their invaluable feedback and support during the development of this project.
+
 
