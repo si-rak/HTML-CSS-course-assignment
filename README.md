@@ -30,3 +30,14 @@ To get a local copy up and running, follow these simple steps.
    ```bash
    git clone https://github.com/si-rak/HTML-CSS-course-assignment.git
    ```
+
+### Running 
+
+This is a static website built with only HTML and CSS. To view or run the website locally, follow these steps:
+
+### Option 1: Open Directly in Browser
+
+1. Download or clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/rainjacket-ecommerce.git
+
