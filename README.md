@@ -1,6 +1,6 @@
 # Rainydays - E-commerce Website for Rain Jackets
 
-![Example Image](assets/images/HP_main_img_compr.JPG)
+![Example Image](https://unsplash.com/photos/a-person-standing-in-front-of-a-waterfall-GWmzGb2nw0g)
 
 
 
