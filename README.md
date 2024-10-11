@@ -18,7 +18,9 @@ This is HTML and CSS Course Assignement on an e-commerce website that specialize
 
 ## Installation
 
-1. Clone the repository:
+To get a local copy up and running, follow these simple steps.
+
+ Clone the repository:
    ```bash
    git clone https://github.com/si-rak/HTML-CSS-course-assignment.git
    ```
