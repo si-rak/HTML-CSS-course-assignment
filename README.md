@@ -1,5 +1,8 @@
 # Rainydays - E-commerce Website for Rain Jackets
 
+![Alt text](/assets/images/HP main img,compr.JPG)
+
+
 ## Project Overview
 
 This is HTML and CSS Course Assignement on an e-commerce website that specializes in selling high-quality rain jackets. The website provides a user-friendly interface to explore various products and offers a seamless shopping experience.
