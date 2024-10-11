@@ -16,8 +16,9 @@ This is HTML and CSS Course Assignement on an e-commerce website that specialize
 - Custom styles using CSS.
 - User-friendly navigation.
 
-## Installation
+## Getting Started
 
+### Installing
 To get a local copy up and running, follow these simple steps.
 
  Clone the repository:
