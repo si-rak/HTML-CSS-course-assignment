@@ -1,8 +1,6 @@
 # Rainydays - E-commerce Website for Rain Jackets
 
-![kal-visuals-X8oLaedw-OI-unsplash](https://github.com/user-attachments/assets/b8c1903c-7206-4421-aff0-144d6ace9724)
-
-
+![HP main img,compr](https://github.com/user-attachments/assets/b236aaee-5a8b-458e-bfb9-14562e39e4a9)
 
 
 
