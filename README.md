@@ -39,5 +39,52 @@ This is a static website built with only HTML and CSS. To view or run the websit
 
 1. Download or clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/rainjacket-ecommerce.git
+    git clone https://github.com/si-rak/HTML-CSS-course-assignment.git
+
+
+   ## Contributing
+
+Contributions are welcome! If you'd like to improve the Rainjacket E-commerce website, follow these simple steps:
+
+### How to Contribute:
+
+1. **Fork this Repository**:
+   - Click the "Fork" button on the top right of this page to create your own copy of the project.
+
+2. **Clone the Repository**:
+   - Clone your forked repository to your computer:
+     ```bash
+     git clone https://github.com/si-rak/HTML-CSS-course-assignment.git
+     ```
+
+3. **Create a New Branch**:
+   - Create a new branch to work on your changes:
+     ```bash
+     git checkout -b your-branch-name
+     ```
+
+4. **Make Changes**:
+   - Make your changes or improvements to the HTML and CSS files.
+
+5. **Commit Your Changes**:
+   - After making changes, commit them with a short message:
+     ```bash
+     git add .
+     git commit -m "Short description of changes"
+     ```
+
+6. **Push the Changes**:
+   - Push your branch to GitHub:
+     ```bash
+     git push origin your-branch-name
+     ```
+
+7. **Create a Pull Request**:
+   - Go to your forked repository on GitHub and click "Pull Request." 
+   - Submit the pull request, describing the changes you made.
+
+Once submitted, your changes will be reviewed, and if everything looks good, they will be merged into the project.
+
+Thank you for contributing!
+
 
