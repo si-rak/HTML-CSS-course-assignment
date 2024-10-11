@@ -24,7 +24,7 @@ This is HTML and CSS Course Assignement on an e-commerce website that specialize
 ## Getting Started
 
 ### Installing
-To get a local copy up and running, follow these simple steps.
+To get a local copy up and running, follow these simple steps:
 
  Clone the repository:
    ```bash
@@ -35,7 +35,7 @@ To get a local copy up and running, follow these simple steps.
 
 This is a static website built with only HTML and CSS. To view or run the website locally, follow these steps:
 
-## Option 1: Open Directly in Browser
+#### Option 1: Open Directly in Browser
 
 1. Download or clone the repository to your local machine:
    ```bash
