@@ -91,7 +91,7 @@ Thank you for contributing!
 
 Feel free to reach out if you have any questions or want to connect:
 
-- **Email**: zebeaman3@gmail.com
+- **Email**: [zebeaman3@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sirak-getachew-a422a7208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 
 I'm always open to feedback, collaboration, and networking!
