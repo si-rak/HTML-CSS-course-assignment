@@ -1,6 +1,6 @@
 # Rainydays - E-commerce Website for Rain Jackets
 
-![Alt Text](.kal-visuals-X8oLaedw-OI-unsplash.JPEG)
+![Alt Text](https://drive.google.com/file/d/185wXGhZSSbjnnNBCrY1Ee1_dfbF3jcCb/view?usp=drivesdk)
 
 
 
