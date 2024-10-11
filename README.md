@@ -1,6 +1,6 @@
 # Rainydays - E-commerce Website for Rain Jackets
 
-![Alt Text](C:\Users\zebea\OneDrive\Desktop\HTML-CSS-course-assignment\kal-visuals-X8oLaedw-OI-unsplash.JPEG)
+![Alt Text](kal-visuals-X8oLaedw-OI-unsplash.JPEG)
 
 
 
