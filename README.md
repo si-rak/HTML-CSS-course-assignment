@@ -42,8 +42,8 @@ This is a static website built with only HTML and CSS. To view or run the websit
     git clone https://github.com/si-rak/HTML-CSS-course-assignment.git
 
 
-   ## Contributing
-
+ 
+  ## Contributing
 Contributions are welcome! If you'd like to improve the Rainjacket E-commerce website, follow these simple steps:
 
 ### How to Contribute:
