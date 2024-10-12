@@ -1,5 +1,5 @@
 # Cross Course Assignment
-# Rainydays: An E-Commerce Experience for Quality Rain Jackets
+# An E-Commerce Experience for Quality Rain Jackets
 ![HP main img,compr](https://github.com/user-attachments/assets/b236aaee-5a8b-458e-bfb9-14562e39e4a9)
 
 
@@ -60,7 +60,7 @@ Contributions are welcome! If you'd like to improve the Rainjacket E-commerce we
 3. **Create a New Branch**:
    - Create a new branch to work on your changes:
      ```bash
-     git checkout -b your-branch-name
+     git checkout -b featured branch
      ```
 
 4. **Make Changes**:
@@ -76,7 +76,7 @@ Contributions are welcome! If you'd like to improve the Rainjacket E-commerce we
 6. **Push the Changes**:
    - Push your branch to GitHub:
      ```bash
-     git push origin your-branch-name
+     git push origin featured branch
      ```
 
 7. **Create a Pull Request**:
